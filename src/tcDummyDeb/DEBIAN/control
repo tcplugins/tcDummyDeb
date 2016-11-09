@@ -1,0 +1,11 @@
+Package: tcDummbyDeb
+Version: _version_token_
+Section: misc
+Priority: optional
+Architecture: _arch_token_
+Maintainer: Net Wolf UK
+Description: my first sample application which isn't doing anything special.
+ .
+ And other description goes
+ here too.
+ .
